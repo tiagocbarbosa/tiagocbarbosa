@@ -2,7 +2,7 @@
 
 My name is Tiago Barbosa and I'm a Computer Science student from Brazil (🇧🇷). I've been studying Front-End technologies and I'm currently working at Ericsson Inovação S.A. in Salvador, Bahia.
 
-Would like to see some of my personal web projects?
+Would you like to see some of my personal web projects?
 
 - Projects with React JS:
   1. https://github.com/tiagocbarbosa/flexblog_app
@@ -11,13 +11,10 @@ Would like to see some of my personal web projects?
   1. https://github.com/tiagocbarbosa/brArchitects_web
   1. https://github.com/tiagocbarbosa/myFood_web
 
-You can also reach me here:
+Hope you enjoyed it! You can also reach me here:
 
 <a href="mailto:tiagocastrobarbosa@gmail.com" title="Email tiagocbarbosa"><img src="https://img.shields.io/badge/%40-email-informational"></a>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagocastrobarbosa/)](https://www.linkedin.com/in/tiagocastrobarbosa/)
-
-
-------
 
 Have a great day! 👋
 
