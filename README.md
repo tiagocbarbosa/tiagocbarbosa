@@ -16,6 +16,8 @@ Hope you enjoyed it! You can also reach me here:
 <a href="mailto:tiagocastrobarbosa@gmail.com" title="Email tiagocbarbosa"><img src="https://img.shields.io/badge/%40-email-informational"></a>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagocastrobarbosa/)](https://www.linkedin.com/in/tiagocastrobarbosa/)
 
+----
+
 Have a great day! 👋
 
 <!--
