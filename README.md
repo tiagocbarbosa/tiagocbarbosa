@@ -4,14 +4,14 @@ My name is Tiago Barbosa and I'm a Computer Science student from Brazil (ðŸ‡§ðŸ‡
 
 Would you like to see some of my web projects? Here they are:
 
-- Projects with React JS:
+- Projects with `react-js`:
   1. https://github.com/tiagocbarbosa/flexblog_app
 
-- Projects with Bootstrap:
+- Projects with `bootstrap`:
   1. https://github.com/tiagocbarbosa/brArchitects_web
   1. https://github.com/tiagocbarbosa/myFood_web
 
-Hope you enjoyed it! You can reach me here:
+Hope you enjoyed it! You can also reach me here:
 
 <a href="mailto:tiagocastrobarbosa@gmail.com" title="Email tiagocbarbosa"><img src="https://img.shields.io/badge/%40-email-informational"></a>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagocastrobarbosa/)](https://www.linkedin.com/in/tiagocastrobarbosa/)
