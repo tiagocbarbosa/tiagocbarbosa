@@ -4,10 +4,10 @@ My name is Tiago Barbosa and I'm a Computer Science student from Brazil (ðŸ‡§ðŸ‡
 
 Would you like to see some of my web projects? Here they are:
 
-- Projects with `react-js`:
+- Projects using `react-js`:
   1. https://github.com/tiagocbarbosa/flexblog_app
 
-- Projects with `bootstrap`:
+- Projects using `bootstrap`:
   1. https://github.com/tiagocbarbosa/brArchitects_web
   1. https://github.com/tiagocbarbosa/myFood_web
 
