@@ -11,6 +11,9 @@ Would you like to see some of my web projects? Here they are:
   1. https://github.com/tiagocbarbosa/brArchitects_web
   1. https://github.com/tiagocbarbosa/myFood_web
 
+- Project using `javascript` OOP concepts:
+  1. https://github.com/tiagocbarbosa/javascript-oop
+
 Hope you enjoyed it! You can also reach me here:
 
 <a href="mailto:tiagocastrobarbosa@gmail.com" title="Email to tiagocastrobarbosa@gmail.com"><img src="https://img.shields.io/badge/%40-email-informational"></a>
