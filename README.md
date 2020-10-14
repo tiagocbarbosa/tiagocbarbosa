@@ -16,8 +16,10 @@ Would you like to see some of my web projects? Here they are:
 
 Hope you enjoyed it! You can also reach me here:
 
+<!-- <a href="mailto:tiagocastrobarbosa@gmail.com" title="Email to tiagocastrobarbosa@gmail.com"><img src="https://img.shields.io/badge/%40-email-informational"></a> -->
 <a href="mailto:tiagocastrobarbosa@gmail.com" title="Email to tiagocastrobarbosa@gmail.com"><img src="https://img.shields.io/badge/%40-email-informational"></a>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagocastrobarbosa/)](https://www.linkedin.com/in/tiagocastrobarbosa/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tiagocastrobarbosa@gmail.com)](mailto:tiagocastrobarbosa@gmail.com)
 
 Have a great day! 👋
 
