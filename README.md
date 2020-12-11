@@ -14,7 +14,7 @@ In my free time I like to study programming and to code. Would you like to see s
 - Project using `javascript` OOP concepts:
   1. https://github.com/tiagocbarbosa/javascript-oop
 
-I hope you liked them! Feel free to message me if you want to and have a great day 👋
+I hope you liked them! Feel free to message me, you also can reach me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagocastrobarbosa/)](https://www.linkedin.com/in/tiagocastrobarbosa/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tiagocastrobarbosa@gmail.com)](mailto:tiagocastrobarbosa@gmail.com)
