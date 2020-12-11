@@ -1,8 +1,8 @@
 ### Hi there 😁
 
-My name is Tiago Barbosa and I'm a Computer Science student from Brazil (🇧🇷). I've been studying Front-End technologies and I'm currently working at Ericsson Inovação S.A. in Salvador, Bahia.
+Hi, my name is Tiago Castro Barbosa and I'm a System Analyst at Ericsson Inovação S/A in Brazil (🇧🇷)
 
-Would you like to see some of my web projects? Here they are:
+In my free time I like to study programming and to code. Would you like to see some of my web projects? Here they are:
 
 - Projects using `react-js`:
   1. https://github.com/tiagocbarbosa/flexblog_app
@@ -14,15 +14,12 @@ Would you like to see some of my web projects? Here they are:
 - Project using `javascript` OOP concepts:
   1. https://github.com/tiagocbarbosa/javascript-oop
 
-Hope you enjoyed it! You can also reach me here:
+I hope you liked them! Feel free to message me if you want to and have a great day 👋
 
-<!--- 
-<a href="mailto:tiagocastrobarbosa@gmail.com" title="Email to tiagocastrobarbosa@gmail.com"><img src="https://img.shields.io/badge/%40-email-informational"></a>
--->
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagocastrobarbosa/)](https://www.linkedin.com/in/tiagocastrobarbosa/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tiagocastrobarbosa@gmail.com)](mailto:tiagocastrobarbosa@gmail.com)
 
-Have a great day! 👋
+Have a great day 👋
 
 <!--
 **tiagocbarbosa/tiagocbarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
