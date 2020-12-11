@@ -1,6 +1,6 @@
 ### Hi there 😁
 
-Hi, my name is Tiago Castro Barbosa and I'm a System Analyst at Ericsson Inovação S/A in Brazil (🇧🇷)
+My name is Tiago Castro Barbosa and I'm a System Analyst at Ericsson Inovação S/A in Brazil (🇧🇷)
 
 In my free time I like to study programming and to code. Would you like to see some of my web projects? Here they are:
 
