@@ -1,4 +1,4 @@
-### Hi there 😁
+### Hello!
 
 My name is Tiago Barbosa and I'm a System Analyst at Ericsson Inovação S/A in Brazil (🇧🇷)
 
@@ -11,8 +11,9 @@ In my free time I like to study programming and to code. Would you like to see s
   1. https://github.com/tiagocbarbosa/brArchitects_web
   1. https://github.com/tiagocbarbosa/myFood_web
 
-- Project using `javascript` OOP concepts:
-  1. https://github.com/tiagocbarbosa/javascript-oop
+- Programming languages:
+  1. `javascript` https://github.com/tiagocbarbosa/javascript-oop
+  2. `ruby` https://github.com/tiagocbarbosa/ruby
 
 I hope you liked them! Feel free to message me, you also can reach me here:
 
