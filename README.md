@@ -2,7 +2,7 @@
 
 My name is Tiago Barbosa and I'm a System Analyst at Ericsson Inovação S/A in Brazil (🇧🇷)
 
-In my free time I like to study programming and to code. Would you like to see some of my web projects? Here they are:
+In my free time I like to study programming and to code. Would you like to see some of my projects? Here they are:
 
 - Projects using `react-js`:
   1. https://github.com/tiagocbarbosa/flexblog_app
