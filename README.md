@@ -4,16 +4,19 @@ My name is Tiago Barbosa and I'm a System Analyst at Ericsson Inovação S/A in 
 
 In my free time I like to study programming and to code. Would you like to see some of my projects? Here they are:
 
-- Projects using `react-js`:
-  1. https://github.com/tiagocbarbosa/flexblog_app
+- Programming languages:
+  1. `javascript` https://github.com/tiagocbarbosa/javascript-oop
+  2. `ruby` https://github.com/tiagocbarbosa/ruby
 
 - Projects using `bootstrap`:
   1. https://github.com/tiagocbarbosa/brArchitects_web
   1. https://github.com/tiagocbarbosa/myFood_web
 
-- Programming languages:
-  1. `javascript` https://github.com/tiagocbarbosa/javascript-oop
-  2. `ruby` https://github.com/tiagocbarbosa/ruby
+- Projects using `react-js`:
+  1. https://github.com/tiagocbarbosa/flexblog_app
+
+- Projects using `react-native`:
+  1. https://github.com/tiagocbarbosa/myFirstReactNativeApp
 
 I hope you liked them! Feel free to message me, you also can reach me here:
 
