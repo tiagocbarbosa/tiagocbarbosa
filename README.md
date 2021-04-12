@@ -1,8 +1,6 @@
-### Hello!
+Currently working as QA Analyst at Ericsson Inovação S/A, experience with software development, member of the company's DevOps Committee, and studying frontend technologies on free time.
 
-My name is Tiago Barbosa and I'm a System Analyst at Ericsson Inovação S/A in Brazil (🇧🇷)
-
-In my free time I like to study programming and to code. Would you like to see some of my projects? Here they are:
+Would you like to see some of my projects? Here they are:
 
 - Projects using `cucumber`:
   1. https://github.com/tiagocbarbosa/viacep-cucumber
@@ -29,7 +27,7 @@ I hope you liked them! Feel free to message me, you also can reach me here:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagocastrobarbosa/)](https://www.linkedin.com/in/tiagocastrobarbosa/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tiagocastrobarbosa@gmail.com)](mailto:tiagocastrobarbosa@gmail.com)
 
-Have a great day 👋
+Have a great day!
 
 <!--
 **tiagocbarbosa/tiagocbarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
