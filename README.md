@@ -4,9 +4,11 @@ My name is Tiago Barbosa and I'm a System Analyst at Ericsson Inovação S/A in 
 
 In my free time I like to study programming and to code. Would you like to see some of my projects? Here they are:
 
-- Programming languages:
-  1. `javascript` https://github.com/tiagocbarbosa/javascript-oop
-  2. `ruby` https://github.com/tiagocbarbosa/ruby
+- Projects using `cucumber`:
+  1. https://github.com/tiagocbarbosa/viacep-cucumber
+
+- Projects using `cypress`:
+  1. https://github.com/tiagocbarbosa/cypress-cura-healthcare
 
 - Projects using `bootstrap`:
   1. https://github.com/tiagocbarbosa/brArchitects_web
@@ -17,6 +19,10 @@ In my free time I like to study programming and to code. Would you like to see s
 
 - Projects using `react-native`:
   1. https://github.com/tiagocbarbosa/myFirstReactNativeApp
+
+- Programming languages:
+  1. `javascript` https://github.com/tiagocbarbosa/javascript-oop
+  2. `ruby` https://github.com/tiagocbarbosa/ruby
 
 I hope you liked them! Feel free to message me, you also can reach me here:
 
