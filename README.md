@@ -1,4 +1,4 @@
-Currently working as QA Analyst at Ericsson Inovação S/A, experience with software development, member of the company's DevOps Committee, and studying frontend technologies on free time.
+Currently working in the financial area as Automated Testing Analyst at Zup Innovation, worked in the telecommunications area as QA Analyst at Ericsson Inovação S/A. Experience with software development, DevOps and frontend technologies.
 
 Would you like to see some of my projects? Here they are:
 
