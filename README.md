@@ -1,29 +1,23 @@
 Currently working in the financial area as QA Analyst at Zup Innovation. I've worked in the telecommunication area at Ericsson Inovação S/A and I've experience with software development. Would you like to see some of my projects? Here they are:
 
-- Programming languages:
-  1. `javascript` https://github.com/tiagocbarbosa/javascript-oop
-  2. `ruby` https://github.com/tiagocbarbosa/ruby
+Programming languages with:
 
-- Projects using `cucumber`:
-  1. https://github.com/tiagocbarbosa/viacep-cucumber
+  - `javascript` https://github.com/tiagocbarbosa/javascript-oop
+  - `ruby` https://github.com/tiagocbarbosa/ruby
 
-- Projects using `selenium`:
-  1. https://github.com/tiagocbarbosa/FirstSeleniumApp
+Automations with:
 
-- Projects using `cypress`:
-  1. https://github.com/tiagocbarbosa/cypress-cura-healthcare
+- `cucumber` https://github.com/tiagocbarbosa/viacep-cucumber
+- `selenium` https://github.com/tiagocbarbosa/FirstSeleniumApp
+- `cypress` https://github.com/tiagocbarbosa/cypress-cura-healthcare
 
-Other technologies.
+Other technologies with:
 
-- Projects using `bootstrap`:
+- `bootstrap`
   1. https://github.com/tiagocbarbosa/brArchitects_web
   2. https://github.com/tiagocbarbosa/myFood_web
-
-- Projects using `react-js`:
-  1. https://github.com/tiagocbarbosa/flexblog_app
-
-- Projects using `react-native`:
-  1. https://github.com/tiagocbarbosa/myFirstReactNativeApp
+- `react-js` https://github.com/tiagocbarbosa/flexblog_app
+- `react-native` https://github.com/tiagocbarbosa/myFirstReactNativeApp
 
 ---
 
