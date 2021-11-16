@@ -2,22 +2,29 @@ Currently working in the financial area as QA Analyst at Zup Innovation. I've wo
 
 Programming languages with:
 
-  - `javascript` https://github.com/tiagocbarbosa/javascript-oop
-  - `ruby` https://github.com/tiagocbarbosa/ruby
+  - `javascript`
+    1. https://github.com/tiagocbarbosa/javascript-oop
+  - `ruby`
+    1. https://github.com/tiagocbarbosa/ruby
 
 Automations with:
 
-- `cucumber` https://github.com/tiagocbarbosa/viacep-cucumber
-- `selenium` https://github.com/tiagocbarbosa/FirstSeleniumApp
-- `cypress` https://github.com/tiagocbarbosa/cypress-cura-healthcare
+  - `cucumber`
+    1. https://github.com/tiagocbarbosa/viacep-cucumber
+  - `selenium`
+    1. https://github.com/tiagocbarbosa/FirstSeleniumApp
+  - `cypress`
+    1. https://github.com/tiagocbarbosa/cypress-cura-healthcare
 
 Other technologies with:
 
-- `bootstrap`
-  1. https://github.com/tiagocbarbosa/brArchitects_web
-  2. https://github.com/tiagocbarbosa/myFood_web
-- `react-js` https://github.com/tiagocbarbosa/flexblog_app
-- `react-native` https://github.com/tiagocbarbosa/myFirstReactNativeApp
+  - `bootstrap`
+    1. https://github.com/tiagocbarbosa/brArchitects_web
+    2. https://github.com/tiagocbarbosa/myFood_web
+  - `react-js`
+    1. https://github.com/tiagocbarbosa/flexblog_app
+  - `react-native`
+    1. https://github.com/tiagocbarbosa/myFirstReactNativeApp
 
 ---
 
