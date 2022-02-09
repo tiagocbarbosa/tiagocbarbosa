@@ -1,20 +1,22 @@
 Currently working in the financial area as QA Analyst at Zup Innovation. I've worked in the telecommunication area at Ericsson Inovação S/A and I've experience with software development. Would you like to see some of my projects? Here they are:
 
+Automations with:
+
+  - `rest-assured`
+    1. https://github.com/tiagocbarbosa/lojinhaApi-restAssured
+  - `selenium`
+    1. https://github.com/tiagocbarbosa/FirstSeleniumApp
+  - `cucumber`
+    1. https://github.com/tiagocbarbosa/viacep-cucumber
+  - `cypress`
+    1. https://github.com/tiagocbarbosa/cypress-cura-healthcare
+
 Programming languages with:
 
   - `javascript`
     1. https://github.com/tiagocbarbosa/javascript-oop
   - `ruby`
     1. https://github.com/tiagocbarbosa/ruby
-
-Automations with:
-
-  - `cucumber`
-    1. https://github.com/tiagocbarbosa/viacep-cucumber
-  - `selenium`
-    1. https://github.com/tiagocbarbosa/FirstSeleniumApp
-  - `cypress`
-    1. https://github.com/tiagocbarbosa/cypress-cura-healthcare
 
 Other technologies with:
 
