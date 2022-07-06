@@ -23,7 +23,7 @@ Programming languages
 Other technologies
 
   - `spring-boot`
-    1. https://spring.io/projects/spring-boot
+    1. https://github.com/tiagocbarbosa/demo-springboot
   - `bootstrap`
     1. https://github.com/tiagocbarbosa/brArchitects_web
     2. https://github.com/tiagocbarbosa/myFood_web
