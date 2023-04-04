@@ -1,6 +1,9 @@
 ## About
-- 🔭 I’m currently working at **Zup Innovation** and learning **REST Assured, Kafka and AWS**.
-- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/tiagocastrobarbosa/)** or **tiagocastrobarbosa@gmail.com**.
+I am a Quality Analyst, I like to work in a challenging environment that provides me with personal and professional development, I have a collaborative, questioning, curious profile and I am easy to learn new tools and methodologies.
+
+## Contact
+- [LinkedIn](https://www.linkedin.com/in/tiagocastrobarbosa/)
+- Email: tiagocastrobarbosa@gmail.com
 
 ## Some projects mine
 
