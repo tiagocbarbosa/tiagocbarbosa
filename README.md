@@ -6,6 +6,8 @@
 
 Automations
 
+  - `robot-framework`
+    1. https://github.com/tiagocbarbosa/zup-web-robotframework
   - `rest-assured`
     1. https://github.com/tiagocbarbosa/lojinhaApi-restAssured
   - `selenium`
