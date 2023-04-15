@@ -10,6 +10,7 @@ I am a Quality Analyst, I like to work in a challenging environment that provide
 Automations
 
   - `robot-framework`
+    1. https://github.com/tiagocbarbosa/amazon-web-robotframework
     1. https://github.com/tiagocbarbosa/zup-web-robotframework
   - `rest-assured`
     1. https://github.com/tiagocbarbosa/lojinhaApi-restAssured
