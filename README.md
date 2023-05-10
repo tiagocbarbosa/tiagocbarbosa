@@ -16,7 +16,8 @@ Automations
   - `rest-assured`
     1. https://github.com/tiagocbarbosa/lojinhaApi-restAssured
   - `selenium`
-    1. https://github.com/tiagocbarbosa/FirstSeleniumApp
+    1. https://github.com/tiagocbarbosa/parabank-web-selenium
+    2. https://github.com/tiagocbarbosa/FirstSeleniumApp
   - `cucumber`
     1. https://github.com/tiagocbarbosa/viacep-cucumber
 
