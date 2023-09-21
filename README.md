@@ -13,11 +13,13 @@ Automations
     1. https://github.com/tiagocbarbosa/serverest-api-robotframework
     1. https://github.com/tiagocbarbosa/amazon-web-robotframework
     1. https://github.com/tiagocbarbosa/zup-web-robotframework
+   
+  - `selenium`
+    1. https://github.com/tiagocbarbosa/campoTreinamento-web-selenium
+    2. https://github.com/tiagocbarbosa/parabank-web-selenium
+    3. https://github.com/tiagocbarbosa/FirstSeleniumApp
   - `rest-assured`
     1. https://github.com/tiagocbarbosa/lojinhaApi-restAssured
-  - `selenium`
-    1. https://github.com/tiagocbarbosa/parabank-web-selenium
-    2. https://github.com/tiagocbarbosa/FirstSeleniumApp
   - `cucumber`
     1. https://github.com/tiagocbarbosa/viacep-cucumber
 
