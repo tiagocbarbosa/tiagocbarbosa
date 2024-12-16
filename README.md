@@ -1,6 +1,6 @@
 ## About
 
-I am a Quality Analyst, I like to work in a challenging environment that provides me with personal and professional development, I have a collaborative, questioning, curious profile and I am easy to learn new tools and methodologies.
+I am a QA Engineer, I like to work in a challenging environment that provides me with personal and professional development, I have a collaborative, questioning, curious profile and I am easy to learn new tools and methodologies.
 
 ## Contact
 
