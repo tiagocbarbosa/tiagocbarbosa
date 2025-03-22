@@ -1,3 +1,23 @@
+Hi there! :wave: I am Tiago, a QA Engineer from Brazil based in Portugal :man_technologist::earth_americas:
+
+## Contact
+:mailbox: How to reach me:
+- [linkedin.com/in/tiagocastrobarbosa/](https://www.linkedin.com/in/tiagocastrobarbosa/)
+- [tiagocastrobarbosa@gmail.com](mailto:tiagocastrobarbosa@gmail.com)
+
+## Projects
+Would you like to see some projects mine? I have listed some below :point_down:
+
+#### Robot Framework
+1. (under construction...)
+
+#### Selenium Webdriver
+1. ...
+
+#### Rest Assured
+1. ...
+
+<!--
 ## About
 
 I am a QA Engineer, I like to work in a challenging environment that provides me with personal and professional development, I have a collaborative, questioning, curious profile and I am easy to learn new tools and methodologies.
@@ -6,13 +26,6 @@ I am a QA Engineer, I like to work in a challenging environment that provides me
 
 - [LinkedIn](https://www.linkedin.com/in/tiagocastrobarbosa/)
 - Email: tiagocastrobarbosa@gmail.com
-
-<!--
-<p align="center">
-<a href="https://www.linkedin.com/in/tiagocastrobarbosa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://medium.com/@tiagocastrobarbosa"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-</p>
--->
 
 ## Some projects mine
 
@@ -67,3 +80,11 @@ I am a QA Engineer, I like to work in a challenging environment that provides me
 `react-native`
 
 - https://github.com/tiagocbarbosa/myFirstReactNativeApp
+-->
+
+<!--
+<p align="center">
+<a href="https://www.linkedin.com/in/tiagocastrobarbosa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://medium.com/@tiagocastrobarbosa"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+</p>
+-->
