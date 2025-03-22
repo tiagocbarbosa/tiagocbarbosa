@@ -7,6 +7,13 @@ I am a QA Engineer, I like to work in a challenging environment that provides me
 - [LinkedIn](https://www.linkedin.com/in/tiagocastrobarbosa/)
 - Email: tiagocastrobarbosa@gmail.com
 
+<!--
+<p align="center">
+<a href="https://www.linkedin.com/in/tiagocastrobarbosa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://medium.com/@tiagocastrobarbosa"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+</p>
+-->
+
 ## Some projects mine
 
 `robot-framework`
